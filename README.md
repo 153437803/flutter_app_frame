@@ -12,6 +12,13 @@ Android - Gradle: 6.5
 ```
 
 #
+#### 目标
+```
+完成：10%
+重构，通用性的flutter移动端j简易框架
+```
+
+#
 #### 参考
 ```
 https://github.com/phoenixsky/fun_android_flutter
