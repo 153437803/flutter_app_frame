@@ -8,6 +8,7 @@
 ```
 Dart: 2.10.5
 Flutter: 1.22.6
+Android - Gradle: 6.5
 ```
 
 #
