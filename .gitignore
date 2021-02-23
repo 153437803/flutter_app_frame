@@ -1,0 +1,5 @@
+# Project exclude paths
+/.dart_tool/flutter_build/
+/build/
+# Project exclude paths
+/.dart_tool/
