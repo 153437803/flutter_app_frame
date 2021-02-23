@@ -11,12 +11,6 @@ Flutter: 1.22.6
 ```
 
 #
-#### 目的
-```
-变更具有通用性的flutter移动端框架
-```
-
-#
 #### 参考
 ```
 https://github.com/phoenixsky/fun_android_flutter
