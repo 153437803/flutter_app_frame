@@ -1,4 +1,28 @@
 #
+#### Demo
+
+![image](https://github.com/153437803/flutter_app_frame/blob/master/image20210223164946.gif )
+
+#
+#### 环境
+```
+Dart: 2.10.5
+Flutter: 1.22.6
+```
+
+#
+#### 目的
+```
+变更具有通用性的flutter移动端框架
+```
+
+#
+#### 参考
+```
+https://github.com/phoenixsky/fun_android_flutter
+```
+
+#
 #### ios修改包名
 ```
 iOS 在 ios ▸ Runner ▸ Info.plist 中修改CFBundleIdentifier对应的Value
